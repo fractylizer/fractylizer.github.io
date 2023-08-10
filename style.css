@@ -5,11 +5,10 @@ body {
 }
 
 header {
-  background-color: #334;
+  background-color: #324;
   color: #fff;
   padding: 20px;
   display: flex;
-  justify-content: space-between;
   align-items: center;
 }
 
@@ -29,7 +28,7 @@ nav a {
   text-decoration: none;
 }
 
-a {
+.project {
   color: #A755C2
   text-decoration: none;
 }
